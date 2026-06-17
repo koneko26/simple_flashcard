@@ -1,0 +1,22 @@
+# 実データ（個人の学習履歴）
+cards.csv
+cards - コピー.csv
+
+# バックアップ
+*.bak
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# ビルド成果物
+dist/
+build/
+
+# その他
+*.zip
+mock.html
+
+# 個人の学習データ（csvサブフォルダ）
+csv/
